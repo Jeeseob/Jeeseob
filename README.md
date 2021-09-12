@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+| 💻 **Technology** | 🚀 **Projects** |
+| - | - |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=~&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![DataYouthCampus2021](https://img.shields.io/static/v1?label=&message=DataYouthCampus2021&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Jeeseob/DataYouthCampus2021) |
+<!-- END OF PROFILE STACK, DO NOT REMOVE -->
