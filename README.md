@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![DataYouthCampus2021](https://img.shields.io/static/v1?label=&message=DataYouthCampus2021&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Jeeseob/DataYouthCampus2021) |
-| [![Java](https://img.shields.io/static/v1?label=&message=Java&color=3DDC84&logo=Java&logoColor=FFFFFF)](https://developer.android.com/) | [![SoftwareEngineering](https://img.shields.io/static/v1?label=&message=SoftwareEngineering&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Jeeseob/SoftwareEngineering) |
+| [![Android](https://img.shields.io/static/v1?label=&message=Android&color=3DDC84&logo=Android&logoColor=FFFFFF)](https://developer.android.com/) | [![SoftwareEngineering](https://img.shields.io/static/v1?label=&message=SoftwareEngineering&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Jeeseob/SoftwareEngineering) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
  </div>
