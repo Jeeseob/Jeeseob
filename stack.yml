@@ -4,8 +4,8 @@
   color: '#3C78A9'
   projects:
           - url: https://github.com/Jeeseob/DataYouthCampus2021
-- name: Java
-  logo: Java
+- name: Android
+  logo: Android
   url: https://developer.android.com/
   color: '#3DDC84'
   projects:
