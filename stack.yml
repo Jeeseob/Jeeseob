@@ -10,9 +10,9 @@
   color: '#3DDC84'
   projects:
           - url: https://github.com/Jeeseob/SoftwareEngineering
-- name: Spring
-  logo: Spring
+- name: SpringBoot
+  logo: SpringBoot
   url: https://spring.io/
-  color: '#3DDC84'
+  color: '#6DB33F'
   projects:
           - url: https://github.com/Jeeseob/Engineering_Design_Student_Self_Grading
