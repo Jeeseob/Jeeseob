@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![DataYouthCampus2021](https://img.shields.io/static/v1?label=&message=DataYouthCampus2021&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Jeeseob/DataYouthCampus2021) |
 | [![Android](https://img.shields.io/static/v1?label=&message=Android&color=3DDC84&logo=Android&logoColor=FFFFFF)](https://developer.android.com/) | [![SoftwareEngineering](https://img.shields.io/static/v1?label=&message=SoftwareEngineering&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Jeeseob/SoftwareEngineering) |
 | [![SpringBoot](https://img.shields.io/static/v1?label=&message=SpringBoot&color=6DB33F&logo=SpringBoot&logoColor=FFFFFF)](https://spring.io/) | [![Engineering_Design_Student_Self_Grading](https://img.shields.io/static/v1?label=&message=Engineering_Design_Student_Self_Grading&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Jeeseob/Engineering_Design_Student_Self_Grading) |
+| [![Ubounto](https://img.shields.io/static/v1?label=&message=Ubounto&color=E95420&logo=Ubounto&logoColor=FFFFFF)](https://ubuntu.com/download/desktop) | [![Unix_Socket_Omok](https://img.shields.io/static/v1?label=&message=Unix_Socket_Omok&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Jeeseob/Unix_Socket_Omok) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
  </div>
