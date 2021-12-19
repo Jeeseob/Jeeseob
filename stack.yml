@@ -16,3 +16,9 @@
   color: '#6DB33F'
   projects:
           - url: https://github.com/Jeeseob/Engineering_Design_Student_Self_Grading
+- name: Ubounto
+  logo: Ubounto
+  url: https://ubuntu.com/download/desktop
+  color: '#E95420'
+  projects:
+          - url: https://github.com/Jeeseob/Unix_Socket_Omok
