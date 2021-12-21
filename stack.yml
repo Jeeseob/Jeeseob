@@ -14,10 +14,6 @@
   logo: SpringBoot
   url: https://spring.io/
   color: '#6DB33F'
-  name: Java
-  logo: Java
-  url: https://www.java.com/
-  color: '#007396'
   projects:
           - url: https://github.com/Jeeseob/Engineering_Design_Student_Self_Grading
 - name: Ubuntu
