@@ -6,7 +6,6 @@
 <br>
 
 #### 1일 1커밋 2021.09 ~ ing
-</br> 
 
 ## 🌱 I’m currently learning ...</br>
 <p float="left">
