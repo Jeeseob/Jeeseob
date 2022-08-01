@@ -2,6 +2,14 @@
 
 #### 안녕하세요. Back-End 개발자 지망생 김지섭입니다.
 
+ </br>
+ </br>
+
+## 교육과정 
+
+#### 데이터 청년 캠퍼스 4기 (2021-06-21 ~ 2021-09-01)
+#### 구름 쿠버네티스 과정 5기 (2022-07-11 ~ ing)
+
 <!--
 **Jeeseob/Jeeseob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
