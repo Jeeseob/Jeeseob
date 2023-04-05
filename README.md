@@ -1,7 +1,6 @@
 ## 👋 안녕하세요
 
-#### Java, Spring/Spring-Boot를 기반으로 
-#### 데이터 엔지니어링, Web Backend 등 여러 컴퓨팅 분야를 공부하고있는 개발자 지망생 김지섭입니다.
+#### Spark, Kafaka를 기반으로 Big Data Streaming을 연구/공부 하고있는 김지섭입니다.
 
 
 </br>
