@@ -1,6 +1,6 @@
 ## 👋 안녕하세요
 
-#### Spark, Kafaka를 기반으로 Big Data Streaming을 연구/공부 하고있는 김지섭입니다.
+#### Spark stream을 기반으로 Micro Batch기반 Distributed Data Streaming System Optimization을 연구/공부 하고있는 김지섭입니다.
 
 
 </br>
