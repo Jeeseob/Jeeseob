@@ -7,8 +7,8 @@
 
 ## 교육과정 
 
-#### 서강대학교 컴퓨터공학과 응용빅데이터공학전공(석사 과정) (2023.03 ~ )
-#### 상명대학교 컴퓨터과학과 컴퓨터과학전공(학부 과정) (2017.03 ~ 2023.02)
+#### 서강대학교 컴퓨터공학과 응용빅데이터공학전공(석사 과정) (2023.03 ~ ) - Member of DISOCS(Data Intensive Computing & System LAB)
+#### 상명대학교 컴퓨터과학과 컴퓨터과학전공(학부 과정) (2017.03 ~ 2023.02) - Member of JbaeLab, NISL(Network Information System LAB)
 #### 구름 쿠버네티스 전문가 과정 5기 (2022.07 ~ 2022.11)
 #### 2021 데이터 청년 캠퍼스(상명대학교 과정) (2021.06 ~ 2021.09)
 
@@ -26,10 +26,7 @@
 #### Infra 
 <img src ="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src ="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> <img src ="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
-#### IDE
-<img src = "https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> <img src = "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-</p>
- 
+
 >>>>>>> 
 <!--
 **Jeeseob/Jeeseob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
