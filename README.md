@@ -5,10 +5,14 @@ https://sites.google.com/view/jeeseob
 
 ## Education 
 
-서강대학교 컴퓨터공학과 응용빅데이터공학전공(석사 과정) (2023.03 ~ ) - Member of DISCOS(Data Intensive Computing & System LAB)  
-상명대학교 컴퓨터과학과 컴퓨터과학전공(학부 과정) (2017.03 ~ 2023.02) - Member of JbaeLab, NISL(Network Information System LAB)  
-구름 쿠버네티스 전문가 과정 5기 (2022.07 ~ 2022.11)  
-2021 데이터 청년 캠퍼스(상명대학교 과정) (2021.06 ~ 2021.09)  
+서강대학교 컴퓨터공학과 응용빅데이터공학전공(석사 과정) (2023.03 ~ ) 
+  - Member of DISCOS(Data Intensive Computing & System LAB)  
+
+
+상명대학교 컴퓨터과학과 컴퓨터과학전공(학부 과정) (2017.03 ~ 2023.02) 
+  - Member of JbaeLab, NISL(Network Information System LAB)  
+  - 구름 쿠버네티스 전문가 과정 5기 (2022.07 ~ 2022.11)  
+  - 2021 데이터 청년 캠퍼스(상명대학교 과정) (2021.06 ~ 2021.09)  
 
 <br>
 
