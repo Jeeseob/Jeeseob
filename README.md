@@ -10,7 +10,7 @@ https://sites.google.com/view/jeeseob
 
 
 상명대학교 컴퓨터과학과 컴퓨터과학전공(학부 과정) (2017.03 ~ 2023.02) 
-  - Member of JbaeLab, NISL(Network Information System LAB)  
+  - Member of Jbae Lab, NISL(Network Information System LAB)  
   - 구름 쿠버네티스 전문가 과정 5기 (2022.07 ~ 2022.11)  
   - 2021 데이터 청년 캠퍼스(상명대학교 과정) (2021.06 ~ 2021.09)  
 
