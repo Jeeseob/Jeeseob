@@ -7,7 +7,7 @@ https://sites.google.com/view/jeeseob
 
 서강대학교 컴퓨터공학과 응용빅데이터공학전공(석사 과정) (2023.03 ~ ) 
   - Member of DISCOS(Data Intensive Computing & System LAB)  
-
+  - LG전자 산학장학생(LGE Members)(2024.03 ~ )
 
 상명대학교 컴퓨터과학과 컴퓨터과학전공(학부 과정) (2017.03 ~ 2023.02) 
   - Member of Jbae Lab, NISL(Network Information System LAB)  
