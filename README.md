@@ -6,7 +6,7 @@ https://sites.google.com/view/jeeseob
 ## Work Experience
 
 LG전자 (2025.02 ~ ) 
-  - Wroking at LG sciencePark
+  - Wroking at LG electronics in LG sciencePark
   - MS사업본부 WebOS RP시스템개발팀 (2025.02 ~ )
 
 
@@ -15,7 +15,7 @@ LG전자 (2025.02 ~ )
 ## Education 
 
 서강대학교 컴퓨터공학과 응용빅데이터공학전공(석사 과정) (2023.03 ~ 2025.02) 
-  - Member of DISCOS(Data Intensive Computing & System LAB)  
+  - Member of DISCOS(Data Intensive Computing & AI System LAB)  
   - LG전자 산학장학생(LGE Members)(2024.03 ~ 2025.02)
 
 상명대학교 컴퓨터과학과 컴퓨터과학전공(학부 과정) (2017.03 ~ 2023.02) 
