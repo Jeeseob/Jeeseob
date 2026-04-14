@@ -7,7 +7,7 @@ https://sites.google.com/view/jeeseob
 
 LG전자 (2025.02 ~ ) 
   - Wroking at LG electronics in LG sciencePark
-  - MS사업본부 WebOS RP시스템개발팀 (2025.02 ~ )
+  - MS사업본부 선행플랫폼개발팀 (2025.02 ~ )
 
 
 </br>
